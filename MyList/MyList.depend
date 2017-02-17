@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1487332638 source:f:\Ëã·¨\dslc\mylist\main.cpp
+	<cstdlib>
+	<cstdio>
+	"list.h"
+
+1487332424 f:\Ëã·¨\dslc\mylist\list.h
+
+1487332577 source:f:\Ëã·¨\dslc\mylist\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
