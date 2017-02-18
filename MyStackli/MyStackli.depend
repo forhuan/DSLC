@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487379100 source:c:\duan\test\mystackli\main.cpp
+	"stackli.h"
+
+1487379100 c:\duan\test\mystackli\stackli.h
+
+1487379100 source:c:\duan\test\mystackli\stackli.c
+	<stdio.h>
+	<stdlib.h>
+	"stackli.h"
+
