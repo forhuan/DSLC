@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487679884 source:c:\duan\test\myqueue\main.cpp
+	"queue.h"
+
+1487658690 c:\duan\test\myqueue\queue.h
+
+1487679778 source:c:\duan\test\myqueue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
