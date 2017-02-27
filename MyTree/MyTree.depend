@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1409733871 source:c:\duan\test\mytree\main.cpp
+
+1488066468 source:c:\duan\test\mytree\tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1488066044 c:\duan\test\mytree\tree.h
+
